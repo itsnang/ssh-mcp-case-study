@@ -1,6 +1,8 @@
 .env
 .DS_Store
 
+lab
+
 # Go
 server
 server.exe
